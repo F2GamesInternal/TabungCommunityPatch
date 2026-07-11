@@ -18,11 +18,11 @@ BepInEx/config/OfflinePhoton.cfg
 
 Important fields:
 
-General -> Mode
-General -> Nickname
-Photon  -> AppIdRealtime
-Photon -> AppIdVoice
-Photon  -> Region
+General = Mode
+General = Nickname
+Photon  = AppIdRealtime
+Photon = AppIdVoice
+Photon  = Region
 
 Example Online config:
 
